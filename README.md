@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JS and Java ☕
-- ⚡ Fun fact: life is too short to waste time being sad 😉
+- 🌱 You will find here my personal and college projects, always looking to expand my knowledge
+- ⚡ Smile and be happy 😉
 
 <div>
   <a href="https://github.com/joaogcastro">
